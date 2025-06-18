@@ -6781,3 +6781,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-06-19;14:20;Amsterdam;KLM;KL 1306;0;;"GDN"
 2025-06-19;14:30;Frankfurt;LUFTHANSA;LH 1379;0;;"GDN"
 2025-06-19;14:35;Stavanger;WIZZ AIR;W6 1747;0;;"GDN"
+2025-06-19;14:50;Warszawa;LOT;LO3838;0;;"GDN"
+2025-06-19;15:10;Alicante;RYANAIR;FR 1425;0;;"GDN"
+2025-06-19;15:15;Hamburg;WIZZ AIR;W6 1675;0;;"GDN"
+2025-06-19;15:25;Hurghada;;ENT7033;0;;"GDN"
