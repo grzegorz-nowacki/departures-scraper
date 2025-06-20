@@ -4480,3 +4480,4 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-06-20;20:30;Mediolan - Bergamo (BGY);Ryanair;FR 3594;0;;"POZ"
 2025-06-20;20:55;Tirana (TIA);Buzz / Ryanair Sun;RR 7167;0;;"POZ"
 2025-06-20;22:40;Rzym - Fiumicino (FCO);Wizz Air;W4 6192;0;;"POZ"
+2025-06-20;Godzina;{{ item.airport.label }} ({{ item.airport.value }});null;{{ item.flight_id }};0;;"POZ"
