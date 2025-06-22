@@ -7140,3 +7140,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-06-23;10:10;Kopenhaga;SAS;SK 756;0;;"GDN"
 2025-06-23;10:15;Rodos;;ENT1003;0;;"GDN"
 2025-06-23;10:20;Helsinki;FINNAIR;AY 1176;0;;"GDN"
+2025-06-23;10:55;Zadar;RYANAIR;FR 8677;0;;"GDN"
+2025-06-23;11:00;Oslo torp;RYANAIR;FR 3277;0;;"GDN"
+2025-06-23;11:15;Bergen;WIZZ AIR;W6 1745;0;;"GDN"
