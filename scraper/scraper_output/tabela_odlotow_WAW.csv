@@ -20847,3 +20847,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-06-29;22:55;Kraków (KRK);LOT;LO 3911;0;;"WAW"
 2025-06-29;23:00;Bukareszt (OTP);LOT;LO 643;0;;"WAW"
 2025-06-29;23:00;Ryga (RIX);LOT;LO 793;0;;"WAW"
+2025-06-29;23:00;Tallinn (TLL);LOT;LO 791;0;;"WAW"
+2025-06-29;23:00;Taszkent (TAS);LOT;LO 191;0;;"WAW"
+2025-06-29;23:10;Koszyce (KSC);LOT;LO 517;0;;"WAW"
+2025-06-29;23:10;Ostrawa (OSR);LOT;LO 503;0;;"WAW"
