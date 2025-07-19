@@ -26801,3 +26801,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-07-20;07:20;Amsterdam (AMS);LOT;LO 265;0;;"WAW"
 2025-07-20;07:20;Genewa (GVA);LOT;LO 417;0;;"WAW"
 2025-07-20;07:20;Paryż (CDG);LOT;LO 331;0;;"WAW"
+2025-07-20;07:25;Londyn-Heathrow (LHR);LOT;LO 281;0;;"WAW"
+2025-07-20;07:35;Mediolan (MXP);LOT;LO 317;0;;"WAW"
+2025-07-20;07:35;Monachium (MUC);LOT;LO 351;0;;"WAW"
