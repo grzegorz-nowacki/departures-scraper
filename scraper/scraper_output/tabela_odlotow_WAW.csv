@@ -66478,6 +66478,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-12-11;07:20;Bruksela (BRU);LOT;LO 235;0;;"WAW"
 2025-12-11;07:20;Genewa (GVA);LOT;LO 417;0;;"WAW"
 2025-12-11;07:20;Paryż (CDG);LOT;LO 331;0;;"WAW"
+2025-12-11;07:20;Moskwa-Domodiedowo (DME);Ethiopian;ET 760;0;;"WAW"
 2025-12-11;07:25;Amsterdam (AMS);LOT;LO 265;0;;"WAW"
 2025-12-11;07:30;Dubai (DXB);LOT;LO 121;0;;"WAW"
 2025-12-11;07:30;Mediolan (MXP);LOT;LO 317;0;;"WAW"
@@ -66498,3 +66499,5 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-12-11;08:20;Marsa-Alam (RMF);Enter Air;ENT4533;0;;"WAW"
 2025-12-11;08:20;Rzym (FCO);LOT;LO 301;0;;"WAW"
 2025-12-11;08:30;Hurghada (HRG);Air Cairo;SM 3022;0;;"WAW"
+2025-12-11;08:40;Mediolan (MXP);Wizz Air;W4 6388;0;;"WAW"
+2025-12-11;08:50;Helsinki (HEL);Finnair;AY 1142;0;;"WAW"
