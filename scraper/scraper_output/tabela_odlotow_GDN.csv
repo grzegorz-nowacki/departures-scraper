@@ -23100,3 +23100,8 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-12-11;18:15;Amsterdam;KLM;KL 1308;0;;"GDN"
 2025-12-11;18:20;Warszawa;LOT;LO3816;0;;"GDN"
 2025-12-11;18:30;Helsinki;FINNAIR;AY 1174;0;;"GDN"
+2025-12-11;18:50;Newcastle;;LS568;0;;"GDN"
+2025-12-11;18:50;Katania;WIZZ AIR;W6 1685;0;;"GDN"
+2025-12-11;19:00;Bergen;WIZZ AIR;W6 1757;0;;"GDN"
+2025-12-11;19:05;Stavanger;WIZZ AIR;W6 1755;0;;"GDN"
+2025-12-11;19:25;Kopenhaga;SAS;SK 758;0;;"GDN"
