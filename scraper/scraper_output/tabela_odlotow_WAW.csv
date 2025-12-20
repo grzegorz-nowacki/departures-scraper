@@ -68954,3 +68954,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2025-12-21;07:50;Teneryfa (TFS);LOT;LO 441;0;;"WAW"
 2025-12-21;07:55;Billund (BLL);LOT;LO 465;0;;"WAW"
 2025-12-21;07:55;Stuttgart (STR);LOT;LO 371;0;;"WAW"
+2025-12-21;08:00;Sztokholm (ARN);LOT;LO 453;0;;"WAW"
+2025-12-21;08:00;Teneryfa (TFS);Enter Air;ENT7701;0;;"WAW"
+2025-12-21;08:05;Malta (MLA);LOT;LO 671;0;;"WAW"
+2025-12-21;08:10;Budapeszt (BUD);Wizz Air;W6 2468;0;;"WAW"
