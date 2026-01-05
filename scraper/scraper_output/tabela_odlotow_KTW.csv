@@ -15790,6 +15790,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-05;19:25;Rzym - Fiumicino;WIZZ AIR;W6 1045;0;;"KTW"
 2026-01-05;19:30;Ateny;RYANAIR;FR 2615;0;;"KTW"
 2026-01-05;21:40;Manchester;RYANAIR;RUK 6403;0;;"KTW"
+2026-01-05;21:40;Manchester;RYANAIR;RK 6403;0;;"KTW"
 2026-01-05;22:40;Londyn - Stansted;RYANAIR;FR 2472;0;;"KTW"
 2026-01-06;01:55;Sharm El Sheikh;SKYUP EUROPE;U5 7345;0;;"KTW"
 2026-01-06;02:15;Marsa Alam;SKYUP EUROPE;U5 7831;0;;"KTW"
