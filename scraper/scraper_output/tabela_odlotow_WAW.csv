@@ -75465,3 +75465,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-18;06:30;Frankfurt (FRA);Lufthansa;LH 1353;0;;"WAW"
 2026-01-18;06:35;Paryż (CDG);Air France;AF 1247;0;;"WAW"
 2026-01-18;06:45;Hurghada (HRG);LOT;LO 6247;0;;"WAW"
+2026-01-18;06:45;Kopenhaga (CPH);Wizz Air;W6 1367;0;;"WAW"
+2026-01-18;06:55;Londyn-Heathrow (LHR);British Airways;BA 851;0;;"WAW"
+2026-01-18;07:05;Larnaca (LCA);Wizz Air;W6 1551;0;;"WAW"
