@@ -18,12 +18,12 @@ Skrypt automatycznie otwiera stronę z odlotami, pobiera informacje o lotach (ta
 
 ```bash
 git clone https://github.com/grzegorz-nowacki/departures-scraper.git
-cd departures-scraper
 ```
 
 2. Zainstaluj zależności:
 
 ```bash
+cd departures-scraper/scraper
 npm install
 ```
 
@@ -37,11 +37,40 @@ node scraper.js
 
 Jeśli nie chcesz instalować niczego lokalnie, możesz uruchomić i edytować scraper bezpośrednio w przeglądarce dzięki GitHub Codespaces.
 
-Kliknij przycisk "Code" w repozytorium, a następnie wybierz "Create codespace on main". Wymagane będzie zainstalowanie zależności zgodnie z instrukcją powyżej.
+1. Kliknij przycisk "Code" w repozytorium, a następnie wybierz "Create codespace on main". 
+
+2. Znajdź pole Terminal na dole okna i tam zainstaluj zależności:
+
+```bash
+cd scraper
+npm install
+sudo rm -f /etc/apt/sources.list.d/yarn.list && \
+sudo apt-get update && \
+sudo apt-get install -y \
+  libatk1.0-0t64 \
+  libatk-bridge2.0-0t64 \
+  libcups2t64 \
+  libxkbcommon0 \
+  libxcomposite1 \
+  libxdamage1 \
+  libxfixes3 \
+  libxrandr2 \
+  libgbm1 \
+  libasound2t64 \
+  && sudo ldconfig
+```
+
+3. Uruchomienie:
+
+```bash
+node scraper.js
+```
 
 ## 🔄 Automatyczne pobieranie danych
 
 Repozytorium zawiera skonfigurowany GitHub Actions Workflow, który uruchamia scraper co godzinę, automatycznie zapisując najnowsze dane do pliku CSV.
+
+⚠️ Uwaga o kosztach: GitHub Actions działa w modelu limitów i rozliczeń (dla kont prywatnych obowiązują opłaty po przekroczeniu darmowego limitu). W aktualnej konfiguracji uruchomienie raz na godzinę mieści się w darmowym zakresie użycia, jeśli w przyszłości model rozliczeń się zmieni i limit się zmniejszy, właściciel konta otrzyma wiadomość mailową dotyczącą zbliżania się do końca darmowego limitu.
 
 ### ✏️ Utrzymanie scraperów
 
