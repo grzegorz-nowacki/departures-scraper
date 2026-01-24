@@ -77065,3 +77065,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-24;15:20;Ateny (ATH);LOT;LO603;0;;"WAW"
 2026-01-24;15:30;Londyn-Heathrow (LHR);LOT;LO279;0;;"WAW"
 2026-01-24;15:35;Ryga (RIX);LOT;LO781;0;;"WAW"
+2026-01-24;15:45;Izmir (ADB);PGT;PC1540;0;;"WAW"
+2026-01-24;15:50;Budapeszt (BUD);LOT;LO537;0;;"WAW"
+2026-01-24;15:55;Malta (MLA);Wizz Air;W61589;0;;"WAW"

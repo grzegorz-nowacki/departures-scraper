@@ -26197,6 +26197,8 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-25;06:25;Frankfurt;LUFTHANSA;LH1383;0;;"GDN"
 2026-01-25;06:30;Amsterdam;KLM;KL1302;0;;"GDN"
 2026-01-25;06:30;Reykjavik keflavik;WIZZ AIR;W61773;0;;"GDN"
+2026-01-25;06:30;Eindhoven;WIZZ AIR;W61641;0;;"GDN"
+2026-01-25;06:30;Oslo gardermoen;WIZZ AIR;W61785;0;;"GDN"
 2026-01-25;07:30;Dortmund;WIZZ AIR;W61661;0;;"GDN"
 2026-01-25;07:45;Sztokholm arlanda;RYANAIR;FR4617;0;;"GDN"
 2026-01-25;08:05;Antalia;;ENT7935;0;;"GDN"
