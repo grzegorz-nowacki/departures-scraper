@@ -77403,3 +77403,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-26;07:15;Wilno (VNO);LOT;LO777;0;;"WAW"
 2026-01-26;07:20;Bruksela (BRU);LOT;LO235;0;;"WAW"
 2026-01-26;07:20;Genewa (GVA);LOT;LO417;0;;"WAW"
+2026-01-26;07:20;Paryż (CDG);LOT;LO331;0;;"WAW"
+2026-01-26;07:25;Amsterdam (AMS);LOT;LO265;0;;"WAW"
+2026-01-26;07:25;Mediolan (MXP);LOT;LO317;0;;"WAW"
