@@ -77645,3 +77645,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-27;07:25;Barcelona (BCN);LOT;LO437;0;;"WAW"
 2026-01-27;07:30;Dubai (DXB);LOT;LO121;0;;"WAW"
 2026-01-27;07:30;Mediolan (MXP);LOT;LO317;0;;"WAW"
+2026-01-27;07:30;Praga (PRG);LOT;LO523;0;;"WAW"
+2026-01-27;07:30;Zurych (ZRH);LOT;LO411;0;;"WAW"
+2026-01-27;07:35;Dusseldorf (DUS);LOT;LO403;0;;"WAW"
+2026-01-27;07:35;Londyn-Heathrow (LHR);LOT;LO281;0;;"WAW"
