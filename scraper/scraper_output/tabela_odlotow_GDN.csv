@@ -26683,3 +26683,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-01-31;19:00;Bergen;WIZZ AIR;W61757;0;;"GDN"
 2026-01-31;19:05;Stavanger;WIZZ AIR;W61755;0;;"GDN"
 2026-01-31;19:25;Wrocław;RYANAIR;FR4106;0;;"GDN"
+2026-01-31;21:40;Edynburg;RYANAIR;FR6123;0;;"GDN"
+2026-01-31;22:05;Londyn stansted;RYANAIR;FR592;0;;"GDN"
+2026-01-31;22:20;Manchester;;RK4095;0;;"GDN"
+2026-01-31;22:25;Newcastle;RYANAIR;FR6103;0;;"GDN"
