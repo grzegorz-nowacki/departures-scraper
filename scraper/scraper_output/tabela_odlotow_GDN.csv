@@ -26700,3 +26700,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-01;06:05;Budapeszt;WIZZ AIR;W61689;0;;"GDN"
 2026-02-01;06:10;Londyn luton;WIZZ AIR;W61601;0;;"GDN"
 2026-02-01;06:20;Frankfurt;LUFTHANSA;LH1383;0;;"GDN"
+2026-02-01;06:30;Amsterdam;KLM;KL1302;0;;"GDN"
+2026-02-01;06:30;Eindhoven;WIZZ AIR;W61641;0;;"GDN"
+2026-02-01;06:30;Oslo gardermoen;WIZZ AIR;W61785;0;;"GDN"
