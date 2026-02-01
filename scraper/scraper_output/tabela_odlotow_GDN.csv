@@ -26784,3 +26784,5 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-01;22:05;Manchester;RYANAIR;FR4095;0;;"GDN"
 2026-02-01;22:30;Londyn stansted;RYANAIR;FR592;0;;"GDN"
 2026-02-01;23:35;Wrocław;;ENT4352;0;;"GDN"
+2026-02-01;23:45;Sztokholm arlanda;RYANAIR;FR6099;0;;"GDN"
+2026-02-01;23:45;Goteborg;RYANAIR;FR9071;0;;"GDN"
