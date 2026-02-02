@@ -26856,3 +26856,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-02;21:50;Dublin;RYANAIR;FR1909;0;;"GDN"
 2026-02-02;22:00;Londyn stansted;RYANAIR;FR544;0;;"GDN"
 2026-02-02;22:40;Newcastle;RYANAIR;FR6103;0;;"GDN"
+2026-02-02;23:20;Sztokholm arlanda;RYANAIR;FR4679;0;;"GDN"
+2026-02-02;23:45;Goteborg;RYANAIR;FR6095;0;;"GDN"
+2026-02-03;00:20;Marsa alam;;ENT5027;0;;"GDN"
