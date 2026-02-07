@@ -27201,3 +27201,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-08;11:45;Amsterdam;KLM;KL1304;0;;"GDN"
 2026-02-08;11:55;Warszawa;LOT;LO3836;0;;"GDN"
 2026-02-08;12:05;Londyn stansted;RYANAIR;FR544;0;;"GDN"
+2026-02-08;12:35;Mediolan malpensa;WIZZ AIR;W61713;0;;"GDN"
+2026-02-08;12:55;Kraków;RYANAIR;FR236;0;;"GDN"
+2026-02-08;13:10;Oslo gardermoen;Norwegian;DY1053;0;;"GDN"
+2026-02-08;13:10;Belfast;;RK9608;0;;"GDN"
