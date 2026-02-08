@@ -27300,3 +27300,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-09;14:05;Barcelona el prat;RYANAIR;FR334;0;;"GDN"
 2026-02-09;14:10;Malaga;RYANAIR;FR9918;0;;"GDN"
 2026-02-09;14:15;Frankfurt;LUFTHANSA;LH1379;0;;"GDN"
+2026-02-09;14:35;Oslo torp;RYANAIR;FR4942;0;;"GDN"
+2026-02-09;14:35;Oslo gardermoen;WIZZ AIR;W61783;0;;"GDN"
+2026-02-09;14:50;Warszawa;LOT;LO3838;0;;"GDN"
+2026-02-09;14:55;Sharm el sheikh;;U57227;0;;"GDN"
