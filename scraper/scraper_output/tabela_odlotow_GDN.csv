@@ -27340,3 +27340,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-02-10;06:00;Monachium;LUFTHANSA;LH1647;0;;"GDN"
 2026-02-10;06:00;Kopenhaga;SAS;SK1758;0;;"GDN"
 2026-02-10;06:05;Madryt;WIZZ AIR;W61701;0;;"GDN"
+2026-02-10;06:10;Londyn luton;WIZZ AIR;W61601;0;;"GDN"
+2026-02-10;06:30;Reykjavik keflavik;WIZZ AIR;W61773;0;;"GDN"
+2026-02-10;07:10;Aarhus;RYANAIR;FR4970;0;;"GDN"
+2026-02-10;07:30;Dortmund;WIZZ AIR;W61661;0;;"GDN"
