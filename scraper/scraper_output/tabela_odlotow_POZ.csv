@@ -20564,6 +20564,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-03-13;12:00;Warszawa (WAW);PLL LOT;LO3946;0;;"POZ"
 2026-03-13;12:40;Londyn - Stansted (STN);Ryanair;FR2193;0;;"POZ"
 2026-03-13;12:50;Dubaj (DXB);flydubai;FZ704;0;;"POZ"
+2026-03-13;12:50;Gdańsk (GDN);Wizz Air;W61602;0;;"POZ"
 2026-03-13;13:10;Monachium (MUC);Lufthansa;LH1637;0;;"POZ"
 2026-03-13;14:00;Liverpool (LPL);Ryanair;FR7425;0;;"POZ"
 2026-03-13;14:15;Amsterdam (AMS);KLM;KL1334;0;;"POZ"
