@@ -21131,3 +21131,4 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-03-26;18:20;Warszawa (WAW);PLL LOT;LO3948;0;;"POZ"
 2026-03-26;20:10;Malaga (AGP);Ryanair;FR6215;0;;"POZ"
 2026-03-26;20:45;Hurghada (HRG);Air Cairo;SM3026;0;;"POZ"
+2026-03-26;Godzina;{{ item.airport.label }} ({{ item.airport.value }});null;{{item.flight_id}};0;;"POZ"
