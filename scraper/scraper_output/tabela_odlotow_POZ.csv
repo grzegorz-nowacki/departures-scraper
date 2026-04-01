@@ -21405,6 +21405,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-04-01;05:45;Warszawa (WAW);PLL LOT;LO3942;0;;"POZ"
 2026-04-01;06:00;Oslo - Torp (TRF);Ryanair;FR1764;0;;"POZ"
 2026-04-01;06:00;Amsterdam (AMS);KLM;KL1332;0;;"POZ"
+2026-04-01;06:20;Amman (AMM);Ryanair;FR5725;0;;"POZ"
 2026-04-01;06:45;Frankfurt (FRA);Lufthansa;LH1391;0;;"POZ"
 2026-04-01;07:30;Londyn - Stansted (STN);Ryanair;FR2337;0;;"POZ"
 2026-04-01;07:45;Warszawa (WAW);PLL LOT;LO3952;0;;"POZ"
