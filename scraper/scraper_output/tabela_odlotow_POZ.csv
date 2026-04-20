@@ -22395,6 +22395,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-04-20;12:00;Londyn - Stansted (STN);Ryanair;FR1751;0;;"POZ"
 2026-04-20;12:00;Malaga (AGP);Ryanair;FR6215;0;;"POZ"
 2026-04-20;12:00;Warszawa (WAW);PLL LOT;LO3946;0;;"POZ"
+2026-04-20;12:00;Poznajławicę (WYC);;WYC123;0;;"POZ"
 2026-04-20;12:15;Kopenhaga (CPH);Ryanair;FR8522;0;;"POZ"
 2026-04-20;14:15;Wenecja - Treviso (TSF);Ryanair;FR7508;0;;"POZ"
 2026-04-20;14:15;Amsterdam (AMS);KLM;KL1334;0;;"POZ"
