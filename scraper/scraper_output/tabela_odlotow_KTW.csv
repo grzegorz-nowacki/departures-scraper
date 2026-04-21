@@ -20158,3 +20158,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-04-21;14:55;Warszawa;LOT;LO3884;0;;"KTW"
 2026-04-21;15:00;Frankfurt;AIR DOLOMITI;EN8761;0;;"KTW"
 2026-04-21;15:15;Malaga;WIZZ AIR;W61073;0;;"KTW"
+2026-04-21;15:25;Mediolan - Bergamo;RYANAIR;FR3491;0;;"KTW"
+2026-04-21;15:45;Rzym - Fiumicino;RYANAIR;FR4113;0;;"KTW"
+2026-04-21;15:45;Dortmund;WIZZ AIR;W61095;0;;"KTW"
