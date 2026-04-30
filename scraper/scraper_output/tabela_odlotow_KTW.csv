@@ -20523,3 +20523,6 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-04-30;18:15;Antalia;LOT;LO6859;0;;"KTW"
 2026-04-30;18:20;Warszawa;LOT;LO3886;0;;"KTW"
 2026-04-30;18:40;Hurghada;ENTER AIR;ENT4441;0;;"KTW"
+2026-04-30;19:15;Hurghada;NESMA AIRLINES;NE4613;0;;"KTW"
+2026-04-30;19:25;Londyn - Stansted;RYANAIR;FR5535;0;;"KTW"
+2026-04-30;19:30;Oslo Gardermoen;RYANAIR;FR7100;0;;"KTW"
