@@ -28308,6 +28308,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-07-11;14:45;Kos (KGS);Buzz / Ryanair Sun;RR3081;0;;"POZ"
 2026-07-11;14:50;Warszawa (WAW);PLL LOT;LO3944;0;;"POZ"
 2026-07-11;15:00;Frankfurt (FRA);Lufthansa;LH1389;0;;"POZ"
+2026-07-11;15:00;Warszawa (WAW);;SRN904;0;;"POZ"
 2026-07-11;15:20;Zadar (ZAD);Ryanair;FR7252;0;;"POZ"
 2026-07-11;15:40;Mediolan - Bergamo (BGY);Ryanair;FR3868;0;;"POZ"
 2026-07-11;15:50;Dublin (DUB);Ryanair;FR1975;0;;"POZ"
