@@ -391,6 +391,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-08-06;10:50;Antalia (AYT); ;MGH187;0;;"RDO"
 2026-08-07;08:30;Tel Awiw (TLV); ;ENT341;0;;"RDO"
 2026-08-07;08:40;Larnaka (LCA);WIZZAIR;W64640;0;;"RDO"
+2026-08-07;11:25;Burgas (BOJ);WIZZAIR;W62176;0;;"RDO"
 2026-08-08;08:50;Larnaka (LCA);WIZZAIR;W64640;0;;"RDO"
 2026-08-08;11:25;Burgas (BOJ);WIZZAIR;W62176;0;;"RDO"
 2026-08-08;12:20;Antalia (AYT); ;MGH187;0;;"RDO"
@@ -427,3 +428,4 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-08-22;11:25;Burgas (BOJ);WIZZAIR;W62176;0;;"RDO"
 2026-08-23;13:55;Hurghada (HRG); ;QU2226;0;;"RDO"
 2026-08-24;07:45;Tel Awiw (TLV); ;ENT211;0;;"RDO"
+2026-08-25;07:30;Tel Awiw (TLV); ;ENT221;0;;"RDO"
