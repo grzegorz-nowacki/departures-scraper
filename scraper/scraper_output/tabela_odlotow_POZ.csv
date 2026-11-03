@@ -36596,6 +36596,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-11-03;08:00;Londyn - Stansted (STN);Ryanair;FR1751;0;;"POZ"
 2026-11-03;11:00;Frankfurt (FRA);Lufthansa;LH1387;0;;"POZ"
 2026-11-03;12:00;Mediolan - Bergamo (BGY);Ryanair;FR3594;0;;"POZ"
+2026-11-03;12:10;Warszawa - Modlin (WMI);Ryanair;FR4524A;0;;"POZ"
 2026-11-03;12:15;Shannon (SNN);Ryanair;FR4984;0;;"POZ"
 2026-11-03;13:00;Gran Canaria (LPA);Enter Air;ENT5001;0;;"POZ"
 2026-11-03;13:25;Rzym - Ciampino (CIA);Ryanair;FR7171;0;;"POZ"
