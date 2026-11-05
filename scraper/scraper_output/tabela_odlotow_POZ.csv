@@ -36646,6 +36646,7 @@ Data;Czas;Kierunek;Przewoznik;Rejs;Status;;Lotnisko wylotowe
 2026-11-05;07:45;Kutaisi (KUT);Wizz Air;W67942;0;;"POZ"
 2026-11-05;08:05;Oslo - Torp (TRF);Ryanair;FR1764;0;;"POZ"
 2026-11-05;08:40;Hurghada (HRG);;SVI7101;0;;"POZ"
+2026-11-05;08:40;Hurghada (HRG);;0S7101;0;;"POZ"
 2026-11-05;09:20;Hurghada (HRG);Air Cairo;SM3026;0;;"POZ"
 2026-11-05;10:30;Teneryfa (TFS);Enter Air;ENT7021;0;;"POZ"
 2026-11-05;11:00;Frankfurt (FRA);Lufthansa;LH1387;0;;"POZ"
